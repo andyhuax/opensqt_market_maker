@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://r2.opensqt.com/opensqt_logo.png" alt="OpenSQT Logo" width="600"/>
-  # OpenSQT Market Maker
-</div>
-
----
 
 ## 📖 项目简介 (Introduction)
 
